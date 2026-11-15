@@ -40,7 +40,7 @@ Software Engineer building **high-throughput and reliable systems**.
 - Generative AI, Large Language Models and Agent Executor.
 ---
 
-### 🎮 Contribution Arcade
+### 🎮 Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capang-io/capang-io/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capang-io/capang-io/output/pacman-contribution-graph.svg">
